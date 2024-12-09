@@ -1,0 +1,23 @@
+{
+  "name": "keurigfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "compile-sass": "sass dist/scss/styles.scss dist/css/styles.css -w --no-source-map -w",
+    "serve": "live-server dist",
+    "build-webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^11.0.2",
+    "jquery": "^3.7.1",
+    "sass": "^1.82.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

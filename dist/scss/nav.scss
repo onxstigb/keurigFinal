@@ -1,0 +1,165 @@
+nav {
+  height: 200px;
+  background-color: $site-cream;
+
+  .banner {
+    height: 50px;
+    background-color: $site-yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+
+    span {
+      line-height: 50px;
+    }
+
+    .span1 {
+      font-weight: bold;
+      padding-right: 15px;
+    }
+    .span-code {
+      font-weight: bold;
+      padding-right: 15px;
+    }
+    .shop-now {
+      font-weight: bold;
+      text-decoration: underline;
+      padding-right: 10px;
+    }
+    .details {
+      text-decoration: underline;
+      font-weight: lighter;
+      // padding-right: 900px;
+    }
+
+    .close {
+      position: relative;
+    }
+  }
+
+  .nav-middle {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+
+    .logo img {
+      height: 28px;
+    }
+
+    .search {
+      width: 700px;
+      height: 40px;
+      border: 1px solid $site-gray;
+      border-radius: 15px;
+      padding: 0 10px;
+      background-color: white;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+
+      i {
+        padding-right: 10px;
+      }
+    }
+
+    .account-holder {
+      width: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 100%;
+
+      .support,
+      .account,
+      .cart {
+        font-size: 20px;
+        cursor: pointer;
+
+        .label {
+          width: 5px;
+          font-size: small;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+        }
+      }
+
+      .account i {
+        margin-right: 10px;
+      }
+
+      .cart {
+        position: relative;
+      }
+
+      .item-text {
+        position: absolute;
+        top: -20px;
+        right: -8px;
+      }
+    }
+  }
+
+  .links {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+
+    a {
+      text-decoration: none;
+      color: $site-brown;
+      font-size: 18px;
+    }
+  }
+
+  .promos {
+    height: 92px;
+    background-color: $site-brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    color: $site-white;
+    font-size: 12px;
+
+    span {
+      padding: 0 10px;
+      margin-right: 50px;
+    }
+    .gift-brews,
+    .build-kit,
+    .top-pick {
+      border-right: 2px solid $site-white;
+      padding-right: 20px;
+    }
+
+    .small-text {
+      text-decoration: underline;
+      font-size: 10px;
+      position: absolute;
+      top: 240px;
+      // right: 0;
+      left: 220px;
+    }
+    .small-text2 {
+      text-decoration: underline;
+      font-size: 10px;
+      position: absolute;
+      top: 240px;
+      // right: 0;
+      left: 600px;
+    }
+    .small-text3 {
+      text-decoration: underline;
+      font-size: 10px;
+      position: absolute;
+      top: 240px;
+      // right: 0;
+      left: 1370px;
+    }
+  }
+}

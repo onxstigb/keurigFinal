@@ -1,0 +1,39 @@
+// {
+//   "PRODUCTS": [
+//     {
+//       "productBanner": "2 FREE BOXES - BREW2FREE",
+//       "productBannerColor": "yellow",
+//       "productImage": "",
+//       "productName": "K-Brew + Chill Coffee Maker",
+//       "productPrice": "99.99",
+//       "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At beatae aspernatur perferendis itaque natus optio ex, velit labore, culpa atque consequatur? Quod omnis, enim illum aut molestias maiores voluptates laudantium."
+//     },
+//     {
+//       "productBanner": "2 FREE BOXES - BREW2FREE",
+//       "productBannerColor": "yellow",
+
+//       "productImage": "images/K-Duo-hot-and-iced-Single-Serve-Carafe-Coffee-Maker-Gen2_5000378536.jpg",
+//       "productName": "K-Duo Hot and Iced Single Serve & Carafe Coffee Maker (Gen 2)",
+//       "productPrice": "99.99",
+//       "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At beatae aspernatur perferendis itaque natus optio ex, velit labore, culpa atque consequatur? Quod omnis, enim illum aut molestias maiores voluptates laudantium."
+//     },
+//     {
+//       "productBanner": "",
+//       "productBannerColor": "",
+
+//       "productImage": " ",
+//       "productName": "Product 3",
+//       "productPrice": "300.00",
+//       "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At beatae aspernatur perferendis itaque natus optio ex, velit labore, culpa atque consequatur? Quod omnis, enim illum aut molestias maiores voluptates laudantium."
+//     },
+//     {
+//       "productBanner": "",
+//       "productBannerColor": "",
+
+//       "productImage": " ",
+//       "productName": "Product 4",
+//       "productPrice": "10.00",
+//       "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At beatae aspernatur perferendis itaque natus optio ex, velit labore, culpa atque consequatur? Quod omnis, enim illum aut molestias maiores voluptates laudantium."
+//     }
+//   ]
+// }
