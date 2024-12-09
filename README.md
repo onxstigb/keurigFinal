@@ -6,4 +6,4 @@ main goal: be able to use firebase authentication to log in and have a working c
 
 web4 link: https://in-info-web4.luddy.indianapolis.iu.edu/~obrookin/AdvWeb/keurigFinal/dist/
 
-github link:
+github link: https://onxstigb.github.io/keurigFinal/dist/
